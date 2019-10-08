@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1570542287,,"q"
+|2,0,1570543771,,"q"
 :w
 |2,0,1570542286,,"w"
 :q;
@@ -185,38 +185,100 @@ $
 # File marks:
 'M  22  0  ~/projects/mdn_node/app.js
 |4,77,22,0,1569617691,"~/projects/mdn_node/app.js"
-'0  4  10  ~/.gitignore
-|4,48,4,10,1570542287,"~/.gitignore"
-'1  3  6  ~/.gitignore
-|4,49,3,6,1570542224,"~/.gitignore"
-'2  3  6  ~/.gitignore
-|4,50,3,6,1570542224,"~/.gitignore"
-'3  2  6  ~/.gitignore
-|4,51,2,6,1570542186,"~/.gitignore"
-'4  2  6  ~/.gitignore
-|4,52,2,6,1570542186,"~/.gitignore"
+'0  1  0  ~/cactigraphs
+|4,48,1,0,1570543771,"~/cactigraphs"
+'1  47  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,49,47,0,1570543679,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+'2  4  10  ~/.gitignore
+|4,50,4,10,1570542287,"~/.gitignore"
+'3  3  6  ~/.gitignore
+|4,51,3,6,1570542224,"~/.gitignore"
+'4  3  6  ~/.gitignore
+|4,52,3,6,1570542224,"~/.gitignore"
 '5  2  6  ~/.gitignore
 |4,53,2,6,1570542186,"~/.gitignore"
 '6  2  6  ~/.gitignore
 |4,54,2,6,1570542186,"~/.gitignore"
-'7  1  0  ~/.gitignore
-|4,55,1,0,1570542151,"~/.gitignore"
-'8  1  0  ~/.gitignore
-|4,56,1,0,1570542151,"~/.gitignore"
+'7  2  6  ~/.gitignore
+|4,55,2,6,1570542186,"~/.gitignore"
+'8  2  6  ~/.gitignore
+|4,56,2,6,1570542186,"~/.gitignore"
 '9  1  0  ~/.gitignore
 |4,57,1,0,1570542151,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  1  0  ~/cactigraphs
+|4,39,1,0,1570543771,"~/cactigraphs"
+-'  47  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,47,0,1570543679,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+-'  47  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,47,0,1570543679,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+-'  4  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,4,0,1570543508,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+-'  4  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,4,0,1570543508,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+-'  1  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,1,0,1570543408,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
+-'  1  0  /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+|4,39,1,0,1570543408,"/mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt"
 -'  4  10  ~/.gitignore
 |4,39,4,10,1570542287,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1570542287,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1570542287,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1570542287,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542277,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542277,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542277,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1570542277,"~/.gitignore"
 -'  3  6  ~/.gitignore
 |4,39,3,6,1570542224,"~/.gitignore"
 -'  3  6  ~/.gitignore
 |4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1570542205,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542205,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542205,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542205,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
 -'  2  6  ~/.gitignore
 |4,39,2,6,1570542186,"~/.gitignore"
 -'  2  6  ~/.gitignore
@@ -226,7 +288,25 @@ $
 -'  1  0  ~/.gitignore
 |4,39,1,0,1570542174,"~/.gitignore"
 -'  1  0  ~/.gitignore
+|4,39,1,0,1570542174,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542174,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542174,"~/.gitignore"
+-'  1  0  ~/.gitignore
 |4,39,1,0,1570542151,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542151,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542151,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542151,"~/.gitignore"
+-'  1  5  ~/.gitignore
+|4,39,1,5,1570541966,"~/.gitignore"
+-'  1  5  ~/.gitignore
+|4,39,1,5,1570541966,"~/.gitignore"
+-'  1  5  ~/.gitignore
+|4,39,1,5,1570541966,"~/.gitignore"
 -'  1  5  ~/.gitignore
 |4,39,1,5,1570541966,"~/.gitignore"
 -'  38  2  ~/projects/meadowlark/meadowlark.js
@@ -293,122 +373,50 @@ $
 |4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
 -'  38  2  ~/projects/meadowlark/meadowlark.js
 |4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  34  0  ~/projects/meadowlark/meadowlark.js
-|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
--'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/cactigraphs
+	*	1570543769	0
+	"	1	0
+
+> /mnt/c/Users/mlewin/Documents/Trying to fix ports 😢.txt
+	*	1570543517	0
+	"	47	0
 
 > ~/.gitignore
 	*	1570542286	0
@@ -1949,22 +1957,3 @@ $
 	^	1	0
 	.	1	0
 	+	1	0
-
-> ~/foo.txt
-	*	1564432667	0
-	"	1	0
-	^	5	6
-	.	5	5
-	+	1	57
-	+	1	6
-	+	1	0
-	+	2	0
-	+	5	45
-	+	5	0
-	+	1	0
-	+	5	0
-	+	2	0
-	+	5	0
-	+	4	0
-	+	3	5
-	+	5	5
