@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/timezone
+~MSle0~/c3e88d
 
 # Last Substitute Search Pattern:
 ~MSle0&timezone
@@ -21,19 +21,89 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1569436634,,"q"
+|2,0,1570542287,,"q"
 :w
-|2,0,1569436634,,"w"
+|2,0,1570542286,,"w"
+:q;
+|2,0,1570541965,,"q;"
+:bw
+|2,0,1570478661,,"bw"
+:4,10y
+|2,0,1570462332,,"4,10y"
+:s
+|2,0,1570461544,,"s"
+:d$
+|2,0,1570461138,,"d$"
+:33,45y
+|2,0,1570127266,,"33,45y"
+:20,32y
+|2,0,1570127011,,"20,32y"
+:10,11d
+|2,0,1570113088,,"10,11d"
+:5,28d
+|2,0,1570112158,,"5,28d"
+:7d
+|2,0,1570048294,,"7d"
+:ALEDetail
+|2,0,1570039175,,"ALEDetail"
+:4,20d
+|2,0,1570033130,,"4,20d"
+:23,26d
+|2,0,1569963293,,"23,26d"
+:5,8d
+|2,0,1569873972,,"5,8d"
+:24,26y
+|2,0,1569853776,,"24,26y"
+:20,22y
+|2,0,1569853675,,"20,22y"
+:16,18y
+|2,0,1569852624,,"16,18y"
+:8,10y
+|2,0,1569852376,,"8,10y"
+:8,9y
+|2,0,1569852362,,"8,9y"
+:4,6y
+|2,0,1569852307,,"4,6y"
+:2,4d
+|2,0,1569851603,,"2,4d"
+::bw
+|2,0,1569611628,,":bw"
+:bp
+|2,0,1569610638,,"bp"
+:18,23d
+|2,0,1569598310,,"18,23d"
+:18,23y
+|2,0,1569598303,,"18,23y"
+:66,69y
+|2,0,1569597103,,"66,69y"
+:60,63y
+|2,0,1569595025,,"60,63y"
+:'<,'>q
+|2,0,1569530780,,"'<,'>q"
+::
+|2,0,1569530754,,":"
+:q!
+|2,0,1569529966,,"q!"
+:4,12d
+|2,0,1569523005,,"4,12d"
+:10,14d
+|2,0,1569520365,,"10,14d"
+:1,15d
+|2,0,1569515288,,"1,15d"
+:9,21d
+|2,0,1569512092,,"9,21d"
+:1,39d
+|2,0,1569505844,,"1,39d"
+:1,39G
+|2,0,1569505837,,"1,39G"
+:1dG
+|2,0,1569505813,,"1dG"
+:18,20y
+|2,0,1569444428,,"18,20y"
 :40,46d
 |2,0,1569436449,,"40,46d"
-:bp
-|2,0,1569436437,,"bp"
 :40,46y
 |2,0,1569436412,,"40,46y"
-:q!
-|2,0,1569436384,,"q!"
-:bw
-|2,0,1569436373,,"bw"
 :NERDTreeToggle
 |2,0,1569428855,,"NERDTreeToggle"
 :b
@@ -42,8 +112,6 @@ $
 |2,0,1569426927,,"6,9y"
 :13G
 |2,0,1569426001,,"13G"
-:d$
-|2,0,1569425538,,"d$"
 :bd
 |2,0,1569419178,,"bd"
 :bn
@@ -52,78 +120,12 @@ $
 |2,0,1569418060,,"PlugInstall"
 :PlugLoad
 |2,0,1569418031,,"PlugLoad"
-:PluginLoad
-|2,0,1569418027,,"PluginLoad"
-:scriptnames
-|2,0,1569358549,,"scriptnames"
-:
-|2,0,1569358494,,""
-:<C-Z>,
-|2,0,1569358285,,"<C-Z>,"
-:let g:user_emmet_leader_key='<C-Z>'
-|2,0,1569358262,,"let g:user_emmet_leader_key='<C-Z>'"
-:<C-Y>,
-|2,0,1569358220,,"<C-Y>,"
-:<c-y>,
-|2,0,1569358202,,"<c-y>,"
-:,
-|2,0,1569358186,,","
-:<c-y>
-|2,0,1569358045,,"<c-y>"
-:<c-y>
-|2,0,1569357784,,"<c-y>"
-:set nu
-|2,0,1569357605,,"set nu"
-:set
-|2,0,1569357598,,"set"
-:ene
-|2,0,1569357507,,"ene"
-:'<,'>yy
-|2,0,1569356705,,"'<,'>yy"
-:10l
-|2,0,1569356620,,"10l"
-:20l
-|2,0,1569356616,,"20l"
-:20j
-|2,0,1569356611,,"20j"
-:cs'<h1>
-|2,0,1569356348,,"cs'<h1>"
-:==
-|2,0,1569355720,,"=="
-:'<,'>==
-|2,0,1569355709,,"'<,'>=="
-:'<,'>
-|2,0,1569355697,,"'<,'>"
-:cs'
-|2,0,1569355688,,"cs'"
-:html:5
-|2,0,1569355635,,"html:5"
-:wq
-|2,0,1569354956,,"wq"
-:5,19d
-|2,0,1569354742,,"5,19d"
-:5,19y
-|2,0,1569354719,,"5,19y"
-:10yy
-|2,0,1569354689,,"10yy"
-:dj10
-|2,0,1569354143,,"dj10"
-:echo has('signs')
-|2,0,1569349952,,"echo has('signs')"
-:colorscheme elflord
-|2,0,1569346572,,"colorscheme elflord"
-:help
-|2,0,1569341050,,"help"
-:w!
-|2,0,1568040777,,"w!"
-:Q
-|2,0,1568040773,,"Q"
-:70g
-|2,0,1564761454,,"70g"
 
 # Search String History (newest to oldest):
 ? \$\(cursor\|select\)\$
-|2,1,1569434564,,"\\$\\(cursor\\|select\\)\\$"
+|2,1,1570478095,,"\\$\\(cursor\\|select\\)\\$"
+?/c3e88d
+|2,1,1569530873,47,"c3e88d"
 ? @$
 |2,1,1568831248,,"@$"
 ? timezone
@@ -147,362 +149,1333 @@ $
 
 # Registers:
 "0	LINE	0
-	const fortunes = [
-		'Conquer your fears or they will conquer you.',
-		'Rivers need springs',
-		'Do not fear what you don\'t know',
-		'You will have a pleasant surprise',
-		'Whenever possible, keep it simple'
-	]
-|3,0,0,1,7,0,1569436412,"const fortunes = [","	'Conquer your fears or they will conquer you.',","	'Rivers need springs',","	'Do not fear what you don\\'t know',","	'You will have a pleasant surprise',","	'Whenever possible, keep it simple'","]"
-""1	LINE	0
-	
-|3,1,1,1,1,0,1569436450,""
+	</form>
+|3,0,0,1,1,0,1570478157,"</form>"
+"1	LINE	0
+	</form>
+|3,0,1,1,1,0,1570478158,"</form>"
 "2	LINE	0
-	const fortunes = [
-		'Conquer your fears or they will conquer you.',
-		'Rivers need springs',
-		'Do not fear what you don\'t know',
-		'You will have a pleasant surprise',
-		'Whenever possible, keep it simple'
-	]
-|3,0,2,1,7,0,1569436449,"const fortunes = [","	'Conquer your fears or they will conquer you.',","	'Rivers need springs',","	'Do not fear what you don\\'t know',","	'You will have a pleasant surprise',","	'Whenever possible, keep it simple'","]"
-"3	LINE	0
 	
-|3,0,3,1,1,0,1569436235,""
+|3,0,2,1,1,0,1570476921,""
+"3	LINE	0
+	app.use(require('cookie-parser')(credentials.cookieSecret))
+|3,0,3,1,1,0,1570473793,"app.use(require('cookie-parser')(credentials.cookieSecret))"
 "4	LINE	0
-	const fortunes = [
-		'Conquer your fears or they will conquer you.',
-		'Rivers need springs',
-		'Do not fear what you don\'t know',
-		'You will have a pleasant surprise',
-		'Whenever possible, keep it simple'
-	]
-|3,0,4,1,7,0,1569436233,"const fortunes = [","	'Conquer your fears or they will conquer you.',","	'Rivers need springs',","	'Do not fear what you don\\'t know',","	'You will have a pleasant surprise',","	'Whenever possible, keep it simple'","]"
+			<button type="submit" class="btn btn-primary">Submit</button>
+|3,0,4,1,1,0,1570462937,"		<button type=\"submit\" class=\"btn btn-primary\">Submit</button>"
 "5	LINE	0
-		res.type('text/plain')
-|3,0,5,1,1,0,1569432790,"	res.type('text/plain')"
+		</div>
+|3,0,5,1,1,0,1570461925,"	</div>"
 "6	LINE	0
-		res.type('text/plain')
-|3,0,6,1,1,0,1569432748,"	res.type('text/plain')"
+			
+|3,0,6,1,1,0,1570461918,"		"
 "7	LINE	0
-		
-|3,0,7,1,1,0,1569432707,"	"
+	
+|3,0,7,1,1,0,1570461686,""
 "8	LINE	0
-		res.send('About Meadowlark Travel')
-|3,0,8,1,1,0,1569432695,"	res.send('About Meadowlark Travel')"
+	
+|3,0,8,1,1,0,1570461531,""
 "9	LINE	0
-		res.type('text/plaiddn')
-|3,0,9,1,1,0,1569432694,"	res.type('text/plaiddn')"
-"-	CHAR	0
-	send('500 - Server Error')
-|3,0,36,0,1,0,1569432798,"send('500 - Server Error')"
+		</div>
+|3,0,9,1,1,0,1570460781,"	</div>"
+""-	CHAR	0
+	*
+|3,1,36,0,1,0,1570542140,"*"
 
 # File marks:
-'0  18  0  ~/projects/meadowlark/meadowlark.js
-|4,48,18,0,1569436634,"~/projects/meadowlark/meadowlark.js"
-'1  6  39  ~/projects/meadowlark/views/layouts/main.handlebars
-|4,49,6,39,1569435979,"~/projects/meadowlark/views/layouts/main.handlebars"
-'2  4  20  ~/projects/meadowlark/views/about.handlebars
-|4,50,4,20,1569434325,"~/projects/meadowlark/views/about.handlebars"
-'3  10  42  ~/projects/meadowlark/meadowlark.js
-|4,51,10,42,1569433786,"~/projects/meadowlark/meadowlark.js"
-'4  10  42  ~/projects/meadowlark/meadowlark.js
-|4,52,10,42,1569433786,"~/projects/meadowlark/meadowlark.js"
-'5  31  18  ~/projects/meadowlark/meadowlark.js
-|4,53,31,18,1569432824,"~/projects/meadowlark/meadowlark.js"
-'6  29  18  ~/projects/meadowlark/meadowlark.js
-|4,54,29,18,1569432824,"~/projects/meadowlark/meadowlark.js"
-'7  31  18  ~/projects/meadowlark/meadowlark.js
-|4,55,31,18,1569432824,"~/projects/meadowlark/meadowlark.js"
-'8  29  18  ~/projects/meadowlark/meadowlark.js
-|4,56,29,18,1569432824,"~/projects/meadowlark/meadowlark.js"
-'9  10  28  ~/.vimrc
-|4,57,10,28,1569432533,"~/.vimrc"
+'M  22  0  ~/projects/mdn_node/app.js
+|4,77,22,0,1569617691,"~/projects/mdn_node/app.js"
+'0  4  10  ~/.gitignore
+|4,48,4,10,1570542287,"~/.gitignore"
+'1  3  6  ~/.gitignore
+|4,49,3,6,1570542224,"~/.gitignore"
+'2  3  6  ~/.gitignore
+|4,50,3,6,1570542224,"~/.gitignore"
+'3  2  6  ~/.gitignore
+|4,51,2,6,1570542186,"~/.gitignore"
+'4  2  6  ~/.gitignore
+|4,52,2,6,1570542186,"~/.gitignore"
+'5  2  6  ~/.gitignore
+|4,53,2,6,1570542186,"~/.gitignore"
+'6  2  6  ~/.gitignore
+|4,54,2,6,1570542186,"~/.gitignore"
+'7  1  0  ~/.gitignore
+|4,55,1,0,1570542151,"~/.gitignore"
+'8  1  0  ~/.gitignore
+|4,56,1,0,1570542151,"~/.gitignore"
+'9  1  0  ~/.gitignore
+|4,57,1,0,1570542151,"~/.gitignore"
 
 # Jumplist (newest first):
--'  18  0  ~/projects/meadowlark/meadowlark.js
-|4,39,18,0,1569436634,"~/projects/meadowlark/meadowlark.js"
--'  39  0  ~/projects/meadowlark/meadowlark.js
-|4,39,39,0,1569436449,"~/projects/meadowlark/meadowlark.js"
--'  2  0  ~/projects/meadowlark/lib/fortune.js
-|4,39,2,0,1569436437,"~/projects/meadowlark/lib/fortune.js"
--'  36  0  ~/projects/meadowlark/meadowlark.js
-|4,39,36,0,1569436389,"~/projects/meadowlark/meadowlark.js"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1570542287,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542277,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  3  6  ~/.gitignore
+|4,39,3,6,1570542224,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542205,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  2  6  ~/.gitignore
+|4,39,2,6,1570542186,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542174,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1570542151,"~/.gitignore"
+-'  1  5  ~/.gitignore
+|4,39,1,5,1570541966,"~/.gitignore"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  38  2  ~/projects/meadowlark/meadowlark.js
+|4,39,38,2,1570479069,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
+-'  34  0  ~/projects/meadowlark/meadowlark.js
+|4,39,34,0,1570478802,"~/projects/meadowlark/meadowlark.js"
 -'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1569436201,"~/projects/meadowlark/meadowlark.js"
--'  6  39  ~/projects/meadowlark/views/layouts/main.handlebars
-|4,39,6,39,1569435979,"~/projects/meadowlark/views/layouts/main.handlebars"
--'  6  39  ~/projects/meadowlark/views/layouts/main.handlebars
-|4,39,6,39,1569435979,"~/projects/meadowlark/views/layouts/main.handlebars"
--'  1  0  ~/projects/meadowlark/views/layouts/main.handlebars
-|4,39,1,0,1569434556,"~/projects/meadowlark/views/layouts/main.handlebars"
--'  1  0  ~/projects/meadowlark/views/layouts/main.handlebars
-|4,39,1,0,1569434556,"~/projects/meadowlark/views/layouts/main.handlebars"
--'  4  20  ~/projects/meadowlark/views/about.handlebars
-|4,39,4,20,1569434325,"~/projects/meadowlark/views/about.handlebars"
--'  4  20  ~/projects/meadowlark/views/about.handlebars
-|4,39,4,20,1569434325,"~/projects/meadowlark/views/about.handlebars"
--'  4  20  ~/projects/meadowlark/views/about.handlebars
-|4,39,4,20,1569434325,"~/projects/meadowlark/views/about.handlebars"
--'  4  20  ~/projects/meadowlark/views/about.handlebars
-|4,39,4,20,1569434325,"~/projects/meadowlark/views/about.handlebars"
--'  3  3  ~/projects/meadowlark/views/about.handlebars
-|4,39,3,3,1569434270,"~/projects/meadowlark/views/about.handlebars"
--'  3  3  ~/projects/meadowlark/views/about.handlebars
-|4,39,3,3,1569434270,"~/projects/meadowlark/views/about.handlebars"
--'  3  3  ~/projects/meadowlark/views/about.handlebars
-|4,39,3,3,1569434270,"~/projects/meadowlark/views/about.handlebars"
--'  3  3  ~/projects/meadowlark/views/about.handlebars
-|4,39,3,3,1569434270,"~/projects/meadowlark/views/about.handlebars"
--'  1  0  ~/projects/meadowlark/views/about.handlebars
-|4,39,1,0,1569434198,"~/projects/meadowlark/views/about.handlebars"
--'  1  0  ~/projects/meadowlark/views/about.handlebars
-|4,39,1,0,1569434198,"~/projects/meadowlark/views/about.handlebars"
--'  1  0  ~/projects/meadowlark/views/about.handlebars
-|4,39,1,0,1569434198,"~/projects/meadowlark/views/about.handlebars"
--'  1  0  ~/projects/meadowlark/views/about.handlebars
-|4,39,1,0,1569434198,"~/projects/meadowlark/views/about.handlebars"
--'  10  42  ~/projects/meadowlark/meadowlark.js
-|4,39,10,42,1569433786,"~/projects/meadowlark/meadowlark.js"
--'  10  42  ~/projects/meadowlark/meadowlark.js
-|4,39,10,42,1569433786,"~/projects/meadowlark/meadowlark.js"
--'  10  42  ~/projects/meadowlark/meadowlark.js
-|4,39,10,42,1569433786,"~/projects/meadowlark/meadowlark.js"
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
 -'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1569433716,"~/projects/meadowlark/meadowlark.js"
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
 -'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1569433716,"~/projects/meadowlark/meadowlark.js"
--'  31  18  ~/projects/meadowlark/meadowlark.js
-|4,39,31,18,1569432824,"~/projects/meadowlark/meadowlark.js"
--'  29  18  ~/projects/meadowlark/meadowlark.js
-|4,39,29,18,1569432824,"~/projects/meadowlark/meadowlark.js"
--'  31  18  ~/projects/meadowlark/meadowlark.js
-|4,39,31,18,1569432824,"~/projects/meadowlark/meadowlark.js"
--'  29  18  ~/projects/meadowlark/meadowlark.js
-|4,39,29,18,1569432824,"~/projects/meadowlark/meadowlark.js"
--'  31  18  ~/projects/meadowlark/meadowlark.js
-|4,39,31,18,1569432824,"~/projects/meadowlark/meadowlark.js"
--'  29  18  ~/projects/meadowlark/meadowlark.js
-|4,39,29,18,1569432824,"~/projects/meadowlark/meadowlark.js"
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
 -'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1569432623,"~/projects/meadowlark/meadowlark.js"
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
 -'  1  0  ~/projects/meadowlark/meadowlark.js
-|4,39,1,0,1569432623,"~/projects/meadowlark/meadowlark.js"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  10  28  ~/.vimrc
-|4,39,10,28,1569432533,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1569432503,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1569432503,"~/.vimrc"
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
+-'  1  0  ~/projects/meadowlark/meadowlark.js
+|4,39,1,0,1570478677,"~/projects/meadowlark/meadowlark.js"
 
 # History of marks within files (newest to oldest):
 
-> ~/projects/meadowlark/meadowlark.js
-	*	1569436634	0
-	"	18	0
-	^	10	43
-	.	39	0
-	+	1	35
-	+	8	34
-	+	22	23
-	+	23	23
-	+	23	17
-	+	24	25
-	+	25	2
-	+	26	0
-	+	27	10
-	+	29	0
-	+	30	0
-	+	29	23
-	+	28	13
-	+	29	22
-	+	23	15
-	+	29	0
-	+	30	0
-	+	29	0
-	+	30	14
-	+	31	28
-	+	34	35
-	+	36	96
-	+	36	0
-	+	37	0
-	+	35	104
-	+	20	0
-	+	12	28
-	+	14	23
-	+	14	27
-	+	15	0
-	+	17	14
-	+	19	16
-	+	8	15
-	+	3	0
-	+	2	0
-	+	3	49
-	+	4	32
-	+	5	44
-	+	6	36
-	+	14	0
-	+	13	19
-	+	19	0
-	+	18	1
-	+	18	17
-	+	23	0
-	+	24	18
-	+	30	0
-	+	31	18
-	+	10	42
-	+	39	0
+> ~/.gitignore
+	*	1570542286	0
+	"	4	10
+	^	4	11
+	.	4	10
+	+	1	0
+	+	2	6
+	+	3	4
+	+	2	2
+	+	3	6
+	+	4	10
 
-> ~/projects/meadowlark/lib/fortune.js
-	*	1569436435	0
-	"	2	0
-	.	2	0
-	+	3	0
-	+	2	0
+> ~/projects/meadowlark/meadowlark.js
+	*	1570479069	0
+	"	38	2
+	^	38	3
+	.	38	2
+	+	14	0
+	+	16	1
+	+	17	1
+	+	18	1
+	+	19	1
+	+	20	1
+	+	21	1
+	+	156	1
+	+	157	1
+	+	158	1
+	+	159	1
+	+	160	1
+	+	3	43
+	+	13	1
+	+	14	1
+	+	22	1
+	+	5	35
+	+	76	36
+	+	4	33
+	+	98	38
+	+	100	24
+	+	101	53
+	+	103	0
+	+	104	36
+	+	105	57
+	+	106	1
+	+	106	0
+	+	110	0
+	+	106	13
+	+	110	0
+	+	107	34
+	+	108	36
+	+	110	0
+	+	109	32
+	+	6	40
+	+	120	50
+	+	122	39
+	+	124	23
+	+	125	3
+	+	126	2
+	+	128	64
+	+	130	42
+	+	131	46
+	+	132	34
+	+	133	22
+	+	134	34
+	+	136	33
+	+	137	3
+	+	138	2
+	+	124	23
+	+	7	41
+	+	5	56
+	+	12	1
+	+	7	44
+	+	5	0
+	+	8	0
+	+	9	37
+	+	74	0
+	+	24	29
+	+	29	7
+	+	30	2
+	+	40	39
+	+	43	38
+	+	51	0
+	+	44	70
+	+	45	23
+	+	46	18
+	+	47	29
+	+	48	58
+	+	50	49
+	+	52	49
+	+	53	0
+	+	72	0
+	+	54	13
+	+	55	18
+	+	56	48
+	+	57	4
+	+	58	25
+	+	59	20
+	+	60	30
+	+	61	41
+	+	63	48
+	+	65	48
+	+	66	24
+	+	67	20
+	+	68	24
+	+	69	13
+	+	71	50
+	+	72	4
+	+	73	2
+	+	57	4
+	+	39	0
+	+	32	36
+	+	33	54
+	+	34	28
+	+	34	0
+	+	38	0
+	+	35	9
+	+	36	33
+	+	38	2
 
 > ~/projects/meadowlark/NERD_tree_1
-	*	1569436423	0
-	"	6	0
+	*	1570478665	0
+	"	12	0
 	.	1	0
 	+	1	0
 
 > ~/projects/meadowlark/views/layouts/main.handlebars
-	*	1569435978	0
-	"	6	39
-	^	6	40
-	.	6	39
+	*	1570475637	0
+	"	25	6
+	^	25	7
+	.	25	6
 	+	1	0
-	+	9	0
+	+	15	0
 	+	5	24
-	+	9	6
+	+	15	6
+	+	9	39
+	+	7	49
+	+	8	7
+	+	13	50
+	+	26	0
+	+	28	0
+	+	28	28
+	+	31	0
+	+	42	0
+	+	31	24
+	+	32	8
+	+	33	17
+	+	34	24
+	+	35	0
+	+	34	0
+	+	36	31
+	+	38	30
+	+	39	6
+	+	40	19
+	+	41	6
+	+	26	6
+	+	13	17
+	+	30	0
+	+	13	0
+	+	30	0
+	+	28	0
+	+	27	0
+	+	13	0
+	+	10	208
+	+	17	21
+	+	18	18
+	+	28	12
+	+	29	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	19	4
+	+	20	60
+	+	21	36
+	+	10	101
+	+	11	85
+	+	22	50
+	+	23	51
+	+	25	6
+
+> ~/projects/meadowlark/credentials.js
+	*	1570465515	0
+	"	2	44
+	^	2	45
+	.	2	44
+	+	1	18
+	+	2	44
+
+> ~/projects/meadowlark/views/vacation-photo.handlebars
+	*	1570463026	0
+	"	25	26
+	^	25	27
+	.	25	26
+	+	2	6
+	+	30	0
+	+	4	25
+	+	30	0
+	+	5	0
+	+	4	26
+	+	5	45
+	+	6	24
+	+	9	0
+	+	6	1
+	+	9	0
+	+	5	37
+	+	9	0
+	+	7	42
+	+	8	30
+	+	11	2
+	+	11	0
+	+	30	0
+	+	10	0
+	+	12	54
+	+	8	15
+	+	15	16
+	+	18	0
+	+	19	70
+	+	14	20
+	+	21	19
+	+	22	16
+	+	15	29
+	+	22	29
+	+	25	25
+	+	29	0
+	+	26	40
+	+	28	0
+	+	29	0
+	+	28	0
+	+	27	0
+	+	25	26
+	a	15	12
+
+> ~/projects/meadowlark/package.json
+	*	1570220556	0
+	"	8	20
+	^	8	21
+	.	8	20
+	+	22	19
+	+	23	0
+	+	22	16
+	+	20	0
+	+	22	0
+	+	21	21
+	+	23	0
+	+	22	3
+	+	7	18
+	+	8	0
+	+	7	19
+	+	8	0
+	+	9	70
+	+	8	18
+	+	8	0
+	+	8	91
+	+	8	0
+	+	9	0
+	+	8	20
+
+> ~/projects/meadowlark/views/newsletter.handlebars
+	*	1570220454	0
+	"	18	56
+	^	18	57
+	.	18	56
+	+	1	59
+	+	2	90
+	+	3	47
+	+	4	27
+	+	4	25
+	+	5	59
+	+	6	24
+	+	7	67
+	+	10	0
+	+	21	0
+	+	10	25
+	+	11	61
+	+	15	0
+	+	12	24
+	+	13	78
+	+	16	25
+	+	17	40
+	+	18	56
+
+> ~/.zshrc
+	*	1570218941	0
+	"	14	0
+	^	13	15
+	.	13	14
+	+	13	23
+	+	80	28
+	+	13	18
+	+	80	0
+	+	13	18
+	+	106	17
+	+	107	14
+	+	1	10
+	+	106	28
+	+	107	29
+	+	108	46
+	+	115	0
+	+	116	53
+	+	13	14
+	+	1	1
+	+	109	3
+	+	1	0
+	+	110	18
+	+	111	47
+	+	113	0
+	+	112	44
+	+	79	8
+	+	4	73
+	+	13	14
+
+> ~/projects/meadowlark/test/tests-crosspage.js
+	*	1570206666	0
+	"	56	2
+	^	56	3
+	.	56	2
+	+	6	34
+	+	6	19
+	+	6	17
+	+	6	0
+	+	6	36
+	+	6	0
+	+	6	43
+	+	6	74
+	+	6	33
+	+	6	78
+	+	6	17
+	+	6	46
+	+	6	75
+	+	6	43
+	+	6	3
+	+	6	78
+	+	6	2
+	+	6	8
+	+	6	7
+	+	6	75
+	+	6	0
+	+	6	60
+	+	6	43
+	+	6	49
+	+	6	7
+	+	6	2
+	+	6	65
+	+	6	2
+	+	6	60
+	+	1	24
+	+	6	0
+	+	6	45
+	+	8	0
+	+	6	32
+	+	8	41
+	+	10	29
+	+	12	0
+	+	11	15
+	+	14	0
+	+	15	17
+	+	16	16
+	+	19	10
+	+	58	28
+	+	58	0
+	+	59	0
+	+	19	48
+	+	20	0
+	+	19	41
+	+	20	76
+	+	22	60
+	+	32	26
+	+	32	3
+	+	56	2
+	+	11	0
+	+	8	0
+	+	22	0
+	+	4	11
+	+	5	0
+	+	32	0
+	+	24	28
+	+	27	2
+	+	25	40
+	+	27	7
+	+	23	6
+	+	27	22
+	+	27	66
+	+	27	34
+	+	27	42
+	+	27	44
+	+	27	7
+	+	27	2
+	+	27	0
+	+	27	2
+	+	27	42
+	+	27	10
+	+	27	22
+	+	27	35
+	+	27	2
+	+	32	0
+	+	25	26
+	+	27	36
+	+	29	0
+	+	25	0
+	+	26	0
+	+	29	0
+	+	28	50
+	+	29	4
+	+	31	32
+	+	27	34
+	+	28	14
+	+	27	21
+	+	33	21
+	+	35	59
+	+	56	0
+	+	46	0
+	+	48	0
+	+	49	64
+	+	50	0
+	+	54	24
+	+	56	2
+
+> ~/projects/meadowlark/NERD_tree_2
+	*	1570113356	0
+	"	9	0
+	.	1	0
+	+	1	0
+
+> ~/projects/puppeteer_mocha/test/sample.spec.js
+	*	1570049214	0
+	"	3	0
+	^	4	25
+	.	4	24
+	+	1	33
+	+	3	31
+	+	10	29
+	+	13	25
+	+	15	2
+	+	14	3
+	+	10	15
+	+	11	39
+	+	12	0
+	+	10	24
+	+	3	36
+	+	4	31
+	+	8	25
+	+	9	3
+	+	10	2
+	+	8	0
+	+	6	38
+	+	7	0
+	+	5	17
+	+	4	24
+
+> ~/projects/puppeteer_mocha/test/bootstrap.js
+	*	1570049181	0
+	"	28	0
+	^	16	17
+	.	23	0
+	+	1	34
+	+	1	0
+	+	2	34
+	+	4	61
+	+	2	34
+	+	1	37
+	+	6	13
+	+	11	14
+	+	14	21
+	+	18	0
+	+	17	46
+	+	20	14
+	+	26	39
+	+	27	2
+	+	1	3
+	+	7	29
+	+	18	0
+	+	22	1
+	+	21	7
+	+	28	0
+	+	27	0
+	+	26	0
+	+	25	0
+	+	24	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	7	0
+	+	6	1
+	+	7	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	24	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	8	29
+	+	24	7
+	+	16	17
+	+	23	0
+
+> ~/projects/puppeteer_mocha/NERD_tree_1
+	*	1570048681	0
+	"	9	0
+	.	1	0
+	+	1	0
+
+> ~/projects/puppeteer_mocha/package.json
+	*	1570048330	0
+	"	7	33
+	^	7	34
+	.	7	33
+	+	9	0
+	+	2	36
+	+	2	28
+	+	2	0
+	+	8	0
+	+	7	33
+
+> ~/projects/meadowlark/test/tests-unit.js
+	*	1570042571	0
+	"	3	0
+	^	8	0
+	.	6	0
+	+	1	32
+	+	2	44
+	+	7	37
+	+	7	53
+	+	7	0
+	+	4	40
+	+	8	0
+	+	4	40
+	+	6	0
+	+	7	0
+	+	4	47
+	+	6	42
+	+	4	41
+	+	4	40
+	+	6	0
+	+	5	0
+	+	8	0
+	+	7	0
+	+	6	0
+
+> ~/projects/browser-checks-starter-mocha/check_duckduckgo.js
+	*	1570041228	0
+	"	14	1
+	^	14	2
+	.	7	21
+	+	9	36
+	+	11	29
+	+	9	0
+	+	27	15
+	+	14	1
+	+	8	16
+	+	7	21
+
+> ~/projects/puppeteer_mocha/.eslintrc.json
+	*	1570039555	0
+	"	9	0
+
+> ~/projects/puppeteer_mocha/src/index.html
+	*	1570038280	0
+	"	9	43
+	^	9	44
+	.	9	43
+	+	1	0
+	+	8	0
+	+	5	24
+	+	8	14
+	+	9	43
+
+> ~/projects/puppeteer-test/scrape.js
+	*	1570031281	0
+	"	3	0
+	^	19	8
+	.	19	7
+	+	1	39
+	+	3	26
+	+	26	17
+	+	28	26
+	+	29	19
+	+	30	3
+	+	26	0
+	+	27	0
+	+	4	41
+	+	6	28
+	+	9	47
+	+	10	26
+	+	23	1
+	+	14	1
+	+	25	14
+	+	13	121
+	+	24	1
+	+	22	0
+	+	14	43
+	+	15	43
+	+	16	0
+	+	15	51
+	+	16	0
+	+	21	3
+	+	17	10
+	+	19	7
+
+> ~/projects/puppeteer-test/NERD_tree_1
+	*	1570031271	0
+	"	11	0
+	.	1	0
+	+	1	0
+
+> ~/projects/meadowlark/views/tours/request-group-rate.handlebars
+	*	1570027864	0
+	"	1	0
+	^	10	29
+	.	10	29
+	+	2	5
+	+	10	29
+
+> ~/projects/puppeteer-test/big_scrape.js
+	*	1569963421	0
+	"	17	9
+	^	17	10
+	.	17	9
+	+	13	0
+	+	14	15
+	+	15	13
+	+	24	0
+	+	22	0
+	+	17	33
+	+	21	0
+	+	20	28
+	+	24	0
+	+	23	13
+	+	6	0
+	+	5	17
+	+	17	9
+
+> ~/projects/puppeteer-test/test.js
+	*	1569946870	0
+	"	1	0
+
+> ~/projects/puppeteer_test/test.js
+	*	1569875611	0
+	"	6	49
+	^	6	50
+	.	6	49
+	+	1	39
+	+	3	25
+	+	9	39
+	+	10	44
+	+	12	22
+	+	15	8
+	+	8	6
+	+	8	0
+	+	8	81
+	+	8	0
+	+	8	41
+	+	8	29
+	+	8	0
+	+	8	1
+	+	8	0
+	+	8	2
+	+	8	0
+	+	8	31
+	+	8	23
+	+	8	0
+	+	4	41
+	+	6	49
+
+> /etc/apt/sources.list
+	*	1569872882	0
+	"	35	0
+
+> ~/projects/puppeteer_test/req.txt
+	*	1569869425	0
+	"	1	0
+	.	1	0
+	+	40	0
+	+	1	0
+
+> ~/projects/puppeteer_test/package.json
+	*	1569869288	0
+	"	15	2
+	^	15	22
+	.	15	21
+	+	14	37
+	+	15	21
+
+> ~/projects/meadowlark/lib/fortune.js
+	*	1569857430	0
+	"	1	0
+	.	2	0
+	+	3	0
+	+	2	0
+
+> ~/projects/meadowlark/.eslintrc.json
+	*	1569857078	0
+	"	9	0
+
+> ~/projects/testing_mocha/calc.js
+	*	1569854615	0
+	"	51	1
+	^	47	5
+	.	47	0
+	+	1	42
+	+	2	33
+	+	4	37
+	+	6	23
+	+	9	13
+	+	14	0
+	+	13	47
+	+	16	46
+	+	17	48
+	+	18	15
+	+	26	0
+	+	18	10
+	+	25	21
+	+	26	17
+	+	48	0
+	+	27	43
+	+	28	38
+	+	47	0
+
+> ~/projects/testing_mocha/operations.js
+	*	1569854065	0
+	"	7	2
+	^	6	16
+	.	6	15
+	+	1	29
+	+	12	19
+	+	13	4
+	+	18	0
+	+	16	6
+	+	2	34
+	+	3	34
+	+	4	31
+	+	5	34
+	+	6	28
+	+	7	13
+	+	9	11
+	+	17	15
+	+	6	15
+
+> ~/projects/testing_mocha/test.js
+	*	1569853853	0
+	"	33	51
+	^	33	52
+	.	33	51
+	+	1	33
+	+	4	32
+	+	4	0
+	+	6	0
+	+	3	0
+	+	4	53
+	+	5	24
+	+	2	40
+	+	5	24
+	+	2	28
+	+	7	0
+	+	8	0
+	+	11	0
+	+	12	0
+	+	7	0
+	+	14	2
+	+	15	0
+	+	16	0
+	+	8	44
+	+	9	38
+	+	12	50
+	+	13	32
+	+	16	49
+	+	17	44
+	+	19	0
+	+	20	0
+	+	20	48
+	+	21	30
+	+	23	0
+	+	24	62
+	+	25	50
+	+	27	0
+	+	28	41
+	+	29	55
+	+	31	0
+	+	32	48
+	+	33	51
+
+> ~/projects/testing_mocha/package.json
+	*	1569851852	0
+	"	17	2
+	^	17	2
+	.	17	0
+	+	14	55
+	+	16	0
+	+	15	0
+	+	17	0
+
+> ~/projects/testing_mocha/package
+	*	1569851710	0
+	"	1	0
+
+> ~/projects/mdn_node/app.js
+	*	1569617957	0
+	"	21	0
+
+> ~/projects/mdn_node/NERD_tree_1
+	*	1569617669	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> ~/projects/mdn_node/package.json
+	*	1569616482	0
+	"	7	29
+	^	7	30
+	.	6	29
+	+	7	33
+	+	6	29
+
+> ~/projects/mdn_node/package
+	*	1569616442	0
+	"	1	0
+
+> ~/projects/mdn_node/bin/www
+	*	1569615611	0
+	"	84	0
+
+> ~/projects/meadowlark/views/jquery-test.handlebars
+	*	1569601655	0
+	"	12	3
+	^	12	4
+	.	12	3
+	+	1	15
+	+	3	9
+	+	2	0
+	+	3	0
+	+	2	35
+	+	3	0
+	+	5	12
+	+	6	29
+	+	8	17
+	+	14	9
+	+	9	8
+	+	10	28
+	+	11	30
+	+	12	3
+
+> ~/.myclirc
+	*	1569591667	0
+	"	43	26
+	^	43	27
+	.	43	26
+	+	12	16
+	+	43	19
+	+	59	11
+	+	43	26
+
+> ~/.vim/colors/material-theme.vim
+	*	1569531261	0
+	"	134	0
+	^	24	22
+	.	24	20
+	+	24	20
+
+> ~/projects/meadowlark/views/partials/weather.handlebars
+	*	1569530780	0
+	"	3	3
+	^	10	4
+	.	10	3
+	+	1	27
+	+	2	37
+	+	3	23
+	+	4	11
+	+	5	28
 	+	6	39
+	+	7	21
+	+	10	9
+	+	11	68
+	+	10	3
+
+> views/partials/weather.handlebars
+	*	1569530451	0
+	"	1	0
+
+> ~/projects/meadowlark/.zshrc
+	*	1569529962	0
+	"	1	0
+
+> ~/projects/meadowlark/test/example.js
+	*	1569526877	0
+	"	12	3
+	^	12	4
+	.	12	4
+	+	1	39
+	+	3	14
+	+	13	0
+	+	6	60
+	+	9	47
+	+	11	22
+	+	13	2
+	+	9	44
+	+	13	3
+	+	1	33
+	+	2	39
+	+	6	20
+	+	8	31
+	+	10	0
+	+	9	2
+	+	11	41
+	+	12	4
+
+> ~/projects/meadowlark/qa/tests-crosspage.js
+	*	1569524130	0
+	"	1	0
+	^	6	45
+	.	6	44
+	+	4	42
+	+	4	10
+	+	4	4
+	+	4	18
+	+	4	11
+	+	4	19
+	+	4	1062
+	+	4	9
+	+	4	0
+	+	4	56
+	+	4	6
+	+	4	0
+	+	4	7
+	+	4	30
+	+	4	15
+	+	4	0
+	+	4	9
+	+	4	58
+	+	4	0
+	+	4	32
+	+	4	48
+	+	4	54
+	+	4	3
+	+	4	0
+	+	4	40
+	+	4	41
+	+	4	2
+	+	4	15
+	+	4	31
+	+	4	0
+	+	1	0
+	+	4	3
+	+	4	58
+	+	4	0
+	+	4	49
+	+	4	0
+	+	2	32
+	+	4	0
+	+	4	33
+	+	4	3
+	+	4	0
+	+	4	19
+	+	4	0
+	+	4	2
+	+	4	14
+	+	4	0
+	+	4	31
+	+	4	3
+	+	4	0
+	+	4	64
+	+	4	9
+	+	4	49
+	+	4	51
+	+	4	52
+	+	4	12
+	+	4	0
+	+	4	30
+	+	4	0
+	+	4	31
+	+	4	3
+	+	4	5
+	+	4	2
+	+	4	0
+	+	4	31
+	+	4	40
+	+	4	4
+	+	4	0
+	+	4	35
+	+	6	12
+	+	4	38
+	+	6	54
+	+	14	0
+	+	5	19
+	+	7	2
+	+	6	0
+	+	7	4
+	+	8	23
+	+	9	47
+	+	10	4
+	+	11	50
+	+	12	40
+	+	6	44
+
+> ~/projects/meadowlark/Gruntfile.js
+	*	1569514866	0
+	"	22	27
+	^	22	28
+	.	22	27
+	+	10	1
+	+	11	1
+	+	12	1
+	+	3	1
+	+	26	47
+	+	4	1
+	+	3	1
+	+	13	1
+	+	14	1
+	+	15	1
+	+	26	57
+	+	16	1
+	+	20	4
+	+	21	12
+	+	22	27
+
+> ~/projects/meadowlark/.jshintrc
+	*	1569513271	0
+	"	1	0
+
+> ~/projects/meadowlark/views/tours/hood-river.handlebars
+	*	1569505137	0
+	"	1	0
+	^	3	20
+	.	3	19
+	+	1	0
+	+	2	0
+	+	1	18
+	+	2	61
+	+	3	19
+
+> ~/projects/meadowlark/public/qa/tests-about.js
+	*	1569443225	0
+	"	3	9
+
+> ~/projects/meadowlark/public/qa/tests-global.js
+	*	1569442633	0
+	"	4	42
+	^	4	43
+	.	4	42
+	+	1	29
+	+	2	39
+	+	3	57
+	+	4	40
+	+	3	53
+	+	4	42
+
+> ~/NERD_tree_1
+	*	1569437304	0
+	"	1	0
+	.	1	0
+	+	1	0
 
 > ~/projects/meadowlark/views/about.handlebars
 	*	1569434323	0
@@ -631,10 +1604,6 @@ $
 	+	23	18
 	+	31	8
 
-> ~/.vim/colors/material-theme.vim
-	*	1569421817	0
-	"	122	0
-
 > ~/projects/node/NERD_tree_1
 	*	1569421414	0
 	"	8	0
@@ -667,15 +1636,6 @@ $
 > ~/.vim/colors
 	*	1569418633	0
 	"	1	0
-
-> ~/.myclirc
-	*	1569418594	0
-	"	1	0
-	^	59	12
-	.	59	11
-	+	12	16
-	+	43	19
-	+	59	11
 
 > ~/.vim/.plugins.vim
 	*	1569418194	0
@@ -726,27 +1686,6 @@ $
 	^	1	12
 	.	1	11
 	+	1	11
-
-> ~/.zshrc
-	*	1568926528	0
-	"	77	19
-	^	1	1
-	.	1	1
-	+	13	23
-	+	79	28
-	+	13	18
-	+	79	0
-	+	13	18
-	+	105	17
-	+	106	14
-	+	1	10
-	+	105	28
-	+	106	29
-	+	107	46
-	+	110	0
-	+	111	53
-	+	13	14
-	+	1	1
 
 > ~/.bashrc
 	*	1568915469	0
