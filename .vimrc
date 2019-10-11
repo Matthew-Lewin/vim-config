@@ -2,6 +2,7 @@ syntax on
 set background=dark
 colorscheme material-theme
 highlight Comment ctermfg=DarkGray
+highlight MatchParen cterm=none ctermbg=LightGray ctermfg=DarkGray
 
 set laststatus=2
 set number
