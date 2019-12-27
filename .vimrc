@@ -11,7 +11,7 @@ set laststatus=2
 
 set number
 
-
+let mapleader=""
 
 au  BufNewFile,BufRead  *.handlebars  set  filetype=html
 

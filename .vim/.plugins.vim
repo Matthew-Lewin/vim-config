@@ -13,5 +13,6 @@ Plug 'tpope/vim-eunuch'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
 Plug 'hzchirs/vim-material'
+Plug 'beanworks/vim-phpfmt'
 
 call plug#end()
