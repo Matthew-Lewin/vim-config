@@ -23,6 +23,5 @@ map <C-b> :NERDTreeToggle<CR>
 
 so ~/.vim/.plugins.vim
 
-
-
-
+set tabstop=2
+set shiftwidth=2
