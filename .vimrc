@@ -4,6 +4,7 @@ colorscheme material-theme
 
 highlight Comment ctermfg=DarkGray
 highlight MatchParen cterm=none ctermbg=LightGray ctermfg=DarkGray
+highlight Pmenu ctermfg=black ctermbg=blue
 
 
 
